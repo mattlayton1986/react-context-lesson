@@ -8,4 +8,4 @@ This repo is not my main implementation of the course's main project; therefore,
 
 You can view my main implementation of this project (which **is** deployed to Heroku) in this repo: 
 
-`https://github.com/mattlayton1986/crwn-clothing`
+[https://github.com/mattlayton1986/crwn-clothing](https://github.com/mattlayton1986/crwn-clothing)
